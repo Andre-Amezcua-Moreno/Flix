@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://media.giphy.com/media/Vgs1TdBJoIsZ32X87K/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+My project does have the tab bar and CollectionView. However when I completed the first required story I made this gif. Then, when I finished the CollectionView I tried making another one, but the giphy website wasn't working and it didn't let me make another one.
 
 ---
 
